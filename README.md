@@ -1,6 +1,6 @@
 # DigiMarket — Digital Products Marketplace
 
-A full-stack e-commerce web application for **buying and selling digital products** (gaming accounts, social media pages, dev/design services, marketing & consulting), built with **native PHP, MySQL, Vanilla JavaScript, HTML5 & CSS3** — no frameworks, no libraries.
+A full-stack e-commerce web application for **buying and selling digital products** (gaming accounts, social media pages, dev/design services, marketing & consulting), built with ** PHP, MySQL,  JavaScript, HTML5 & CSS3** — no frameworks, no libraries.
 
 > 🎓 University project — strict native-stack requirements.
 
@@ -17,9 +17,9 @@ A full-stack e-commerce web application for **buying and selling digital product
 
 | Layer       | Tech                         |
 |-------------|------------------------------|
-| Frontend    | HTML5, CSS3, Vanilla JS      |
+| Frontend    | HTML5, CSS3, JS      |
 | Backend     | PHP 7.4+ (PDO)               |
-| Database    | MySQL / MariaDB              |
+| Database    | MySQL              |
 | Server      | Apache (WAMP / XAMPP)        |
 
 No Bootstrap, no Tailwind, no React, no jQuery, no Laravel.
