@@ -8,9 +8,8 @@ A full-stack e-commerce web application for **buying and selling digital product
 
 ## 👥 Team
 
-- Member 1 — _Your Name_
-- Member 2 — _Your Name_
-- Member 3 — _Your Name_
+- Member 1 — Mayssa Taouuai
+- Member 2 — Eya Misaouai
 
 ---
 
